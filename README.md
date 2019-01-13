@@ -1,20 +1,20 @@
-# how_to_generate_images_with_tensorflow_LIVE
+# 텐서플로우를 이용한 이미지 생성_LIVE
 
-## Overview
+## 개요
 
-This is the code for [this]() video on Youtube by Siraj Raval as part of the Deep Learning Nanodegree with Udacity. We're going to build a variational autoencoder that generates [MNIST](http://yann.lecun.com/exdb/mnist/) digits after training on them. We could extend the code to generate any type of image, just replace the training data with your choice of dataset.
+Siraj Raval 의 "Deep Learning Nanodegree with Udacity" 의 일부인 유투브 [영상]()에 관한 코드입니다. 훈련한 뒤에 [MNIST](http://yann.lecun.com/exdb/mnist/) 를 생성하는 변분 자동인코더를 구축해볼 것입니다. 훈련 데이터를 원하는 데이터 세트로 정하게 되면, 이 코드를 확장하여 어떤 타입의 이미지도 생성할 수 있습니다. 
 
-## Dependencies
+## 종속성
 
-* tensorflow
+* 텐서플로우
 * numpy
 
-## Usage
+## 사용법
 
-Run `jupyter notebook` in temrinal and the code will appear in the browser
+터미널에서 `jupyter notebook` 를 실행하면 브라우저에 코드가 나타납니다r
 
 Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html)
 
-## Credits
+## 참조
 
-Credits go to [bluebelmont](https://github.com/bluebelmont/Variational-Autoencoder). I've merely created a wrapper to get people started. 
+이 코드는 [bluebelmont](https://github.com/bluebelmont/Variational-Autoencoder) 의 코드를 참조하여 알기 쉽게 편성한 것입니다. 
