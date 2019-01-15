@@ -11,7 +11,7 @@ Siraj Raval 의 "Deep Learning Nanodegree with Udacity" 의 일부인 유투브 
 
 ## 사용법
 
-터미널에서 `jupyter notebook` 를 실행하면 브라우저에 코드가 나타납니다r
+터미널에서 `jupyter notebook` 를 실행하면 브라우저에 코드가 나타납니다.
 
 Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html)
 
