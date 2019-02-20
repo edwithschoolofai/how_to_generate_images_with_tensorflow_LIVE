@@ -2,7 +2,7 @@
 
 ## 개요
 
-Siraj Raval 의 "Deep Learning Nanodegree with Udacity" 의 일부인 유투브 [영상]()에 관한 코드입니다. 훈련한 뒤에 [MNIST](http://yann.lecun.com/exdb/mnist/) 를 생성하는 변분 자동인코더를 구축해볼 것입니다. 훈련 데이터를 원하는 데이터 세트로 정하게 되면, 이 코드를 확장하여 어떤 타입의 이미지도 생성할 수 있습니다. 
+Siraj Raval 의 "Deep Learning Nanodegree with Udacity" 의 일부인 유투브 [영상]()에 관한 코드입니다. 학습 후 [MNIST](http://yann.lecun.com/exdb/mnist/) 를 생성하는 VAE(Variational Auto Encoder)를 구현해 볼 것입니다. 학습 데이터만 원하는 데이터셋으로 바꾸면, 이 코드를 확장하여 어떤 타입의 이미지도 생성할 수 있습니다. 
 
 ## 종속성
 
@@ -17,4 +17,4 @@ Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html)
 
 ## 참조
 
-이 코드는 [bluebelmont](https://github.com/bluebelmont/Variational-Autoencoder) 의 코드를 참조하여 알기 쉽게 편성한 것입니다. 
+이 코드는 [bluebelmont](https://github.com/bluebelmont/Variational-Autoencoder) 의 코드를 참조하여 알기 쉽게 편집한 것입니다. 
