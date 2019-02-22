@@ -2,7 +2,7 @@
 
 ## 개요
 
-Siraj Raval 의 "Deep Learning Nanodegree with Udacity" 의 일부인 유투브 [영상]()에 관한 코드입니다. 학습 후 [MNIST](http://yann.lecun.com/exdb/mnist/) 를 생성하는 VAE(Variational Auto Encoder)를 구현해 볼 것입니다. 학습 데이터만 원하는 데이터셋으로 바꾸면, 이 코드를 확장하여 어떤 타입의 이미지도 생성할 수 있습니다. 
+Siraj Raval 의 "Deep Learning Nanodegree with Udacity" 의 일부인 유투브 [영상](https://www.youtube.com/watch?v=iz-TZOEKXzA)에 관한 코드입니다. 학습 후 [MNIST](http://yann.lecun.com/exdb/mnist/) 를 생성하는 VAE(Variational Auto Encoder)를 구현해 볼 것입니다. 학습 데이터만 원하는 데이터셋으로 바꾸면, 이 코드를 확장하여 어떤 타입의 이미지도 생성할 수 있습니다. 
 
 ## 종속성
 
