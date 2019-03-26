@@ -15,6 +15,10 @@ Siraj Raval 의 "Deep Learning Nanodegree with Udacity" 의 일부인 유투브 
 
 Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html)
 
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://colab.research.google.com/github/edwithschoolofai/how_to_generate_images_with_tensorflow_LIVE/blob/master/demo.ipynb) 
+
+
 ## 참조
 
 이 코드는 [bluebelmont](https://github.com/bluebelmont/Variational-Autoencoder) 의 코드를 참조하여 알기 쉽게 편집한 것입니다. 
